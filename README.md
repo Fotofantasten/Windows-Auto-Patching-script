@@ -192,5 +192,3 @@ This system transforms Windows patching into:
 *   **maintenance‑friendly**
 
 automation pipeline that fits enterprise operational requirements.
-
-If you'd like a shorter GitHub‑badge‑style summary, or want a **diagram** (Mermaid/png) of the workflow, I can generate that too.
